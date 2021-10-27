@@ -3,10 +3,10 @@
 Ollie Robot is a robot which is designed by Sphero. It is a fun project; therefore I decide to make this robot. The following board is its main board contained a dual motor driver (L298n) for driving two motors and a NRF24l0+ for communication. This PCB is based on the STM32F103CBT6 microcontroller. 
 
 ## Top Layer
-![top layer]( <image/top.png> ?raw=true "top layer")
+![top layer]( image/top.png ?raw=true "top layer")
 
 ## Bottom Layer
-![top layer]( <image/bottom.png> ?raw=true "top layer")
+![top layer]( image/bottom.png ?raw=true "top layer")
 
 
 ## Existing parts
