@@ -1,11 +1,18 @@
 # Ollie Robot
 
-In this project, I design a board to create a robot-like ollie.
-I also design a joystick for it can connect to the robot by Bluetooth 
+Ollie Robot is a robot which is designed by Sphero. It is a fun project; therefore I decide to make this robot. The following board is its main board contained a dual motor driver (L298n) for driving two motors and a NRF24l0+ for communication. 
+This PCB is based on the STM32F103CBT6 microcontroller. 
+I alsow design a joy stick for it can connect to robot by bluetooth.
+
+## Top Layer
+![top layer]( image/top.png ?raw=true "top layer")
+
+## Bottom Layer
+![top layer]( image/bottom.png ?raw=true "top layer")
 
 
 ## Existing parts
-Altium PCB project for both mainboard and joystick: Schematic, PCB 
+Altium PCB project: Schematic, PCB 
 Altium Library contains all components  
 PDF contains Schematic, PCB, and bill of materials 
 
