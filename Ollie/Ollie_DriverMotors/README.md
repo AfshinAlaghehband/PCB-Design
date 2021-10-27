@@ -10,9 +10,10 @@ Ollie Robot is a robot which is designed by Sphero. It is a fun project; therefo
 
 
 ## Existing parts
-Altium PCB project: Schematic, PCB 
-Altium Library contains all components  
-PDF contains Schematic, PCB, and bill of materials 
+- Altium PCB project: Schematic, PCB 
+- Altium Library contains all components  
+- PDF contains Schematic, PCB, and bill of materials 
+- STM32 Cube project (.ioc file)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
