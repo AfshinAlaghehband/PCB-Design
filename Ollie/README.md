@@ -3,7 +3,7 @@
 In this project, I design a board to create a robot-like ollie.
 I also design a joystick for it can connect to robot by Bluetooth 
 
-![top layer]( ollie.png "Top layer")
+![ollie]( /ollie.png "ollie")
 
 ## Existing parts
 - Altium PCB project for both mainboard and joystick: Schematic, PCB
