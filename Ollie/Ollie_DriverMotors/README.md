@@ -8,6 +8,9 @@ Ollie Robot is a robot which is designed by Sphero. It is a fun project; therefo
 ## Bottom Layer
 ![top layer]( image/bottom.png "Bottom layer")
 
+## 3D View
+![3D View]( image/3D.png "3D View")
+
 
 ## Existing parts
 - Altium PCB project: Schematic, PCB 
