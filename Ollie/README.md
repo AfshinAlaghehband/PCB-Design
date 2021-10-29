@@ -4,7 +4,7 @@ In this project, I design a board to create a robot-like ollie.
 I also design a joystick for it can connect to robot by Bluetooth 
 
 ## sphero Ollie 
-![Ollie ]( image/ollie.png "Ollie ")
+![Ollie]( image/ollie.png "Ollie")
 
 ## Existing parts
 - Altium PCB project for both mainboard and joystick: Schematic, PCB
