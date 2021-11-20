@@ -18,7 +18,7 @@ I will upload the sample code for this board as soon as possible.
 ## Board Existing parts
 
 - STM32F103RBT6 microcontroller (if you need more RAM or other peripherals you can change it by STM32F103REt6 or generally STM32-XXXX-R-XXX-)
-- Mini ST-Link socket, programming socket (I will upload the ST-link ASAP)
+- Mini ST-Link socket, programming socket (you can find it [HERE](https://github.com/AfshinAlaghehband/PCB-Designe/tree/main/ST-Link%20Mini))
 - 8 LEDs and 4 switches (tech GPIO)
 - Char LCD (2*16 or 4*20)
 - LM35 temperature sensor (tech Analog to digital convertor(ADC))
